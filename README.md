@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhishek1578/Abhishek1578/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding_gif" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
