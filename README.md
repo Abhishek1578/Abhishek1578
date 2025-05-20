@@ -10,7 +10,7 @@
 </p>
 
 - 👨‍💻 I'm working on enterprise-level applications using **ASP.NET Core Web API** and **Angular**  
-- 🌱 Currently learning **Spring Boot** and improving microservices architecture skills  
+- 🌱 I have done **Full Stack .Net Developer**  
 - 💼 1.9+ years of experience building scalable web applications  
 - 🧠 Hands-on with: **Entity Framework Core, LINQ, SQL Server, Razor Pages, Angular Material, JWT Auth, Bootstrap**  
 - 📫 Reach me at: **abhishekchauhan1578@gmail.com**  
