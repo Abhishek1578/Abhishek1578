@@ -1,4 +1,5 @@
-![logo](https://github.com/Abhishek1578/Abhishek1578/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
+![logo(]https://github.com/Abhishek1578/EduTrack/blob/07d059510f0200ebb459fc20854562216f32de91/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
 <h3 align="center">A passionate Full Stack .NET Developer from India</h3>
